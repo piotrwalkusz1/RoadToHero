@@ -1,9 +1,8 @@
-using UltEvents;
-using UnityEngine;
+using UnityEngine.Events;
 
 public class OneHitDamagable : Damagable
 {
-    public UltEvent onDamageDeal;
+    public UnityEvent onDamageDeal;
 
     private bool damageAlreadyDealt = false;
 
