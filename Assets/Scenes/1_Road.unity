@@ -7287,6 +7287,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fireball
       objectReference: {fileID: 0}
+    - target: {fileID: 8610031676251249075, guid: 89efc141dbe461543b5b99ac3f30b4de,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8610031676251448225, guid: 89efc141dbe461543b5b99ac3f30b4de,
         type: 3}
       propertyPath: m_RootOrder
